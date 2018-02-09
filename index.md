@@ -19,10 +19,6 @@ Alunao de jogos apredendo a fazer um portfólio com prof. maravilhoso Marcelo.
 ## Artes
 
 ![sei oq é isso](https://i.pinimg.com/236x/0c/73/d0/0c73d0830ac1595ac41e8a931c00d870---bit-crochet-tunisian-crochet.jpg)
-## Putas
-
-![Hildelitan](https://pbs.twimg.com/profile_images/821057031176146944/gsLvqXci.jpg)
-![Alessandra](https://kiwicdn.akamaized.net/XoA7EPreKcpoZJCK3nRkMr.jpg)
 
 ## Projetos 
 * Proj Teatro 
@@ -31,7 +27,7 @@ Alunao de jogos apredendo a fazer um portfólio com prof. maravilhoso Marcelo.
 
 1. Marcelo
 2. Saulo
-3. Pualo cu 
+3. Pualo
  
 ## Animações 
 
