@@ -22,7 +22,7 @@ Alunao de jogos apredendo a fazer um portfólio com prof. maravilhoso Marcelo.
 ## Putas
 
 ![Hildelitan](https://pbs.twimg.com/profile_images/821057031176146944/gsLvqXci.jpg)
-![Alessandra](https://www.facebook.com/photo.php?fbid=1503895836335998&set=a.111067598952169.6589.100001467870284&type=3&theater)
+![Alessandra](https://kiwicdn.akamaized.net/XoA7EPreKcpoZJCK3nRkMr.jpg)
 
 ## Projetos 
 * Proj Teatro 
