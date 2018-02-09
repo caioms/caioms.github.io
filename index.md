@@ -17,6 +17,10 @@ Alunao de jogos apredendo a fazer um portfólio com prof. maravilhoso Marcelo.
 [Elements](https://AlvaroMD2016.github.io/Elements)
 
 ## Artes
+
+![sei oq é isso] (https://i.pinimg.com/236x/0c/73/d0/0c73d0830ac1595ac41e8a931c00d870---bit-crochet-tunisian-crochet.jpg)
+
+## Projetos 
 * Proj Teatro 
 * Proj Musica 
 * Proj Jogos 
@@ -24,8 +28,6 @@ Alunao de jogos apredendo a fazer um portfólio com prof. maravilhoso Marcelo.
 1. Marcelo
 2. Saulo
 3. Pualo cu 
-
-## Projetos 
  
 ## Animações 
 
