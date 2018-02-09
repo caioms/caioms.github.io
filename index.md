@@ -18,7 +18,7 @@ Alunao de jogos apredendo a fazer um portfólio com prof. maravilhoso Marcelo.
 
 ## Artes
 
-![sei oq é isso] (https://i.pinimg.com/236x/0c/73/d0/0c73d0830ac1595ac41e8a931c00d870---bit-crochet-tunisian-crochet.jpg)
+![sei oq é isso](https://i.pinimg.com/236x/0c/73/d0/0c73d0830ac1595ac41e8a931c00d870---bit-crochet-tunisian-crochet.jpg)
 
 ## Projetos 
 * Proj Teatro 
