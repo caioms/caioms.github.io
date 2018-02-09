@@ -42,6 +42,9 @@ Alunao de jogos apredendo a fazer um portfólio com prof. maravilhoso Marcelo.
 
 ** Jade **
 ![](https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-1/20708390_1434667369959153_7157518474641912235_n.jpg?oh=2172ae92e92d7b68865e08837d7b9501&oe=5ADF9A2D)
+
+** Elber **
+![](https://scontent.frec10-1.fna.fbcdn.net/v/t31.0-8/17191956_1273673752714793_2621558889567472113_o.jpg?oh=acbd43783c3b8cd3f501bab9da585085&oe=5B1E8613)
 ## Projetos 
 * Proj Teatro 
 * Proj Musica 
