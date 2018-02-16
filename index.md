@@ -7,11 +7,13 @@ Criando **minha** _pagina_ ~~principal~~.
 # QUEM SOU EU?
 ![]()
 
-Caio Matheus, estudante do curso de Programação de Jogos Digitais pelo IFRN - Campus Ceará-Mirim, 18 anos e futuro biologo ou medico veterinario 
+Caio Matheus, estudante do curso de Programação de Jogos Digitais pelo IFRN - Campus Ceará-Mirim, 18 anos e futuro biologo ou medico veterinario.
 
 * * *
 
 # Portfólio
+
+* * *
 
 ## Games
 
@@ -19,16 +21,10 @@ Caio Matheus, estudante do curso de Programação de Jogos Digitais pelo IFRN - 
 
 ## Artes
 
-![sei oq é isso](https://i.pinimg.com/236x/0c/73/d0/0c73d0830ac1595ac41e8a931c00d870---bit-crochet-tunisian-crochet.jpg)
+![]()
 
 ## Projetos 
-* Proj Teatro 
-* Proj Musica 
-* Proj Jogos 
 
-1. Marcelo
-2. Saulo
-3. Pualo
  
 ## Animações 
 
