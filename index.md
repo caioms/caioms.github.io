@@ -15,7 +15,7 @@ _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Di
 
 * * *
 
-# Empresa onde atuo
+# Empresas que já atuei
 
 
 
