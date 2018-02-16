@@ -56,9 +56,9 @@ _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Di
 
 # Redes Sociais
 
-* _Facebook: [Caio Matheus](https://www.facebook.com/fishtronauta)_
-*_Instagram: [caioogordo](https://www.instagram.com/caioogordo/)_
-*E-mail: caiosouza.1999@hotmail.com_
+* _Facebook: [Caio Matheus](https://www.facebook.com/fishtronauta)_  
+*_Instagram: [caioogordo](https://www.instagram.com/caioogordo/)_  
+* E-mail: caiosouza.1999@hotmail.com_  
 
 
 
