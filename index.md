@@ -48,8 +48,7 @@ _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Di
 
 # Projetos 
 
- 
-
+*_Projeto de Extensão NUARTE, no IFRN Campus Ceará-mirim.
 
 * * *
 
