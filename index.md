@@ -11,13 +11,11 @@ layout: default
 _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Digitais, do IFRN Campus Ceará-mirim. Futuramente, pretendo cursar Biologia Marinha ou Medicina Veterinária na Universidade Federal do Rio Grande do Norte (UFRN)._
 
 
-![]()
-
 * * *
 
 # Empresas que já atuei
 
-
+![](Logo.png)
 
 * * *
 
