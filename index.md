@@ -2,40 +2,52 @@
 layout: default
 ---
 
-Criando **minha** _pagina_ ~~principal~~.
-
 # QUEM SOU EU?
+
+_Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Digitais, do IFRN Campus Ceará-mirim. Futuramente, pretendo cursar Biologia Marinha ou Medicina Veterinária na Universidade Federal do Rio Grande do Norte (UFRN)._
+
+
 ![]()
 
-Caio Matheus, estudante do curso de Programação de Jogos Digitais pelo IFRN - Campus Ceará-Mirim, 18 anos e futuro biologo ou medico veterinario.
+* * *
+
+# Empresa onde atuo
+
+
 
 * * *
 
-# Portfólio
+## Jogos desenvolvidos na Empresa Poçomar
 
-* * *
-
-## Games
 
 [Elements](https://AlvaroMD2016.github.io/Elements)
 
-## Artes
+
+
+## Artes que desenvolvi para alguns Jogos
+
 
 ![]()
 
-## Projetos 
 
- 
-## Animações 
 
 * * *
 
-** negrito
-_itálico 
-~~ riscando
-3* linha horizontal(barra)
-#s uma ou mais hashtags criam capitulos ou subcapitulos 
-*s asteriscos criam listas não ordenadas 
-1s números criam lista ordendas 
+## Animações 
+
+
+
+
 
 * * * 
+
+## Projetos 
+
+
+
+ 
+
+
+* * *
+
+
