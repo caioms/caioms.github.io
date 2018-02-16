@@ -4,9 +4,10 @@ layout: default
 
 Criando **minha** _pagina_ ~~principal~~.
 
-# Quem sou eu 
+# QUEM SOU EU?
+![]()
 
-Alunao de jogos apredendo a fazer um portfólio com prof. maravilhoso Marcelo.
+Caio Matheus, estudante do curso de Programação de Jogos Digitais pelo IFRN - Campus Ceará-Mirim, 18 anos e futuro biologo ou medico veterinario 
 
 * * *
 
