@@ -3,7 +3,6 @@ layout: default
 ---
 ![](eu.jpg)
 # Bem-vindo ao meu Portfólio
-
 * * * 
 
 # QUEM SOU EU?
