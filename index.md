@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![](eu.jpg)
 # Bem-vindo ao meu Portfólio
 
 * * * 
@@ -24,22 +24,27 @@ _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Di
 
 [![](Elements.png)](https://AlvaroMD2016.github.io/Elements)
 
+[![](vaca.png)](https://alvaromd2016.github.io/Fuga%20das%20Vacas/)
+
 
 * * * 
 
 # Artes que desenvolvi para alguns Jogos
 
 
-![]()
+![](dente.png)  
 
+![](creme.png)  
 
+![](cremedois.png)  
 
-* * *
+![](bac.png)  
 
-# Animações 
+![](halit.png)  
 
+![](person.png)  
 
-
+![](elementos.png)  
 
 
 * * * 
