@@ -57,7 +57,8 @@ _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Di
 
 # Projetos 
 
-* _Projeto de Extensão NUARTE, no IFRN Campus Ceará-mirim._
+* _Projeto de Extensão NUARTE, no IFRN Campus Ceará-mirim._  
+* _Proj TCC: Jogos para crianças com TDAH (Transtorno de Déficit de Atenção e Hiperatividade)_ 
 
 * * *
 
