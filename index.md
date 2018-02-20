@@ -25,11 +25,11 @@ _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Di
 [![](Elements.png)](https://AlvaroMD2016.github.io/Elements)
 
 ### Fuga das Vacas
-* _No jogo Fuga das Vacas tem como objetivo a vaquinha conseguir passar pelos obstáculos e concuir os níveis._ 
+* _No jogo Fuga das Vacas tem como objetivo a vaquinha conseguir passar pelos obstáculos e concuir os níveis._   
 .[![](vaca.png)](https://alvaromd2016.github.io/Fuga%20das%20Vacas/)  
 
 ### Tower Defense
-* _Envolve saúde bocal, tem como objetivo matar os causadores de mau hálito, bactérias, cáries e entre outros indivíduos.
+* _Envolve saúde bocal, tem como objetivo matar os causadores de mau hálito, bactérias, cáries e entre outros indivíduos._  
 [![](dentesdois.png)](https://alvaromd2016.github.io/Tower%20Defense/)
 
 
