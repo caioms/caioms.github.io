@@ -21,12 +21,15 @@ _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Di
 # Jogos desenvolvidos na Empresa Poçomar
 
 ### Elements
+* _No jogo Elements tem como objetivo o jogador conseguir destruir os guardiões dos quatros elementos e conseguir se libertar da maldição._
 [![](Elements.png)](https://AlvaroMD2016.github.io/Elements)
 
 ### Fuga das Vacas
-[![](vaca.png)](https://alvaromd2016.github.io/Fuga%20das%20Vacas/)  
+* _No jogo Fuga das Vacas tem como objetivo a vaquinha conseguir passar pelos obstáculos e concuir os níveis._ 
+.[![](vaca.png)](https://alvaromd2016.github.io/Fuga%20das%20Vacas/)  
 
 ### Tower Defense
+* _Envolve saúde bocal, tem como objetivo matar os causadores de mau hálito, bactérias, cáries e entre outros indivíduos.
 [![](dentesdois.png)](https://alvaromd2016.github.io/Tower%20Defense/)
 
 
