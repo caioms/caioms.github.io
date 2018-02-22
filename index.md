@@ -49,6 +49,10 @@ _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Di
 
 ![](halit.png)  
 
+![](bala.png)
+
+![](bala2.png)
+
 ### Arte do Jogo Elements
 
 ![](person.png)  
