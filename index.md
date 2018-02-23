@@ -37,8 +37,6 @@ _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Di
 
 # Artes que desenvolvi para alguns Jogos
 
-### Arte do Jogo Tower Defense  
-
 ![](dente.png)  
 
 ![](creme.png)  
@@ -54,8 +52,6 @@ _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Di
 ![](bala.png)
 
 ![](bala2.png)
-
-### Arte do Jogo Elements
 
 ![](person.png)  
 
