@@ -59,7 +59,9 @@ _Meu nome é Caio Matheus, aluno do Curso Integrado de Programação de Jogos Di
 
 ![](pulo.gif)
 
-![](elementos.png)  
+![](elementos.png) 
+
+![](mockup.gif)
 
 
 * * * 
